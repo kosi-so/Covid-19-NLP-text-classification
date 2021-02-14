@@ -18,3 +18,8 @@ Neutral sentiments have the fewest words, the more extreme the sentiments get in
 ### Common Stop Words 
 The tweets have a lot of stop words, needs to be removed
 ### Hashtags 
+The most used hashtags in the tweets include: coronavirus, Covid_19, Coranavirus, COVID2019, coronavirus COVID19, COVID19, etc.
+### Mentions 
+The twitter accounts mention the most include: realDonaldTrump, YouTube, amazon, Tesco, BorisJohnson, FTC, sainsbury, McKinsey, piersmorgan, narendramodi, etc. 
+
+## 2. Preprocessing the Data 
